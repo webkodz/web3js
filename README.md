@@ -1,4 +1,4 @@
-# demo-project-repo-web3js
+# web3js
 demo repo collabration test
 
 What is Infura? 
