@@ -10,6 +10,7 @@ web3.eth.getBalance("Account_Address", function (err, result) {
         console.log(err)
     } else {
         console.log(web3.utils.fromWei(result, "ether") + " ETH")
+        console.log(web3.utils.fromWei(result, "Gwei") + " GWEI")
     }
 })
 
